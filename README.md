@@ -1,16 +1,16 @@
-## Hi there 👋
+# potpiejimmy
 
-<!--
-**potpiejimmy/potpiejimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Frankfurt am Main, Germany**
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥗 **[lunch.community](https://lunch.community)** - The ultimate lunch manager for your workplace
+- 📟 **[isobuilder](https://iso.liese.space)** - ISO 8583 Message Builder and Parser
+- 👨🏻‍💻 **[applauncher](https://applauncher.site)** - Customizable Tesla app/website launcher with full-screen mode
+- ⌨️ **[txm-cli](https://www.npmjs.com/package/txm-cli)** - TM command line interface (CLI) helper tool
+- 🎙️ **[ask-a-person](https://plauder.ai)** - Plauder.ai - Sprich mit denen, die sonst unerreichbar sind
+- 🔑 **[dk-opt](https://github.com/potpiejimmy/dk-opt-core)** - TypeScript-based implementation of OPT (Online-Personalisierung von Terminals)
+- 🖥️ **[dndevice-io](https://github.com/digital-terminal-platform)** - The Digital Terminal Platform (DTP), making self-service machines truly digital
+- 💶 **[dncash-io](https://github.com/potpiejimmy/dncash-io)** - The world's first secure cloud-native cash service
+- 💳 **[nodecardreader](https://github.com/potpiejimmy/nodecardreader)** - Node.js-based chip card reader and chip-TAN generator API
+- [and many more...](https://github.com/potpiejimmy?tab=repositories)
